@@ -1,0 +1,21 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(217, 234, 240);
+    color: #555;
+    cursor: cell;
+}
+header {
+    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
+    background-image: url("../images/coding-portfolio.jpeg");
+    color: rgb(240, 227, 190);
+    padding: 25px;
+}
+
+.About-Me {
+    text-align: center;
+    color:rgb(192, 168, 82);
+    padding: 3px;
+}
+
